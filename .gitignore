@@ -43,4 +43,4 @@ bin/
 .DS_Store
 
 ###oauth###
-application-oauth.properties
+application-google.properties
