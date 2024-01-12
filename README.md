@@ -11,11 +11,17 @@ OAuth 2.0을 활용하여 구글, 네이버 로그인 구현해보았습니다.
 
 ### 개발 환경
 -JAVA
+
 -JDK
+
 -gradle
+
 -IDE
+
 -Framework
+
 -Database
+
 -ORM
 
 ## 주요기능
